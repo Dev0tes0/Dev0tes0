@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev0tes0
-- 👀 I’m interested in  тестирование ПО
+- 👀 I’m interested in  Software testing
 - 🌱 I’m currently learning  на QA Engineer
 - 💞️ I’m looking to collaborate on  -
 - 📫 How to reach me  -
